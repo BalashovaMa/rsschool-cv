@@ -19,8 +19,12 @@ Discord: BalashovaMa#5427
 
 **Skills**
 - HTML/CSS
-- JavaScript (Basic)
+- JavaScript
 - Git
+- Gulp
+- Webpack
+- Sass/Scss
+- Figma
 ***
 **Code Example**
 ```
@@ -41,4 +45,4 @@ Graduated in 2002
 **Languages**
 - Ukrainian (native)
 - Russian (fluent)
- - English - B1
+- English - B1
